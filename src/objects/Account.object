@@ -17,6 +17,22 @@
         <type>Picklist</type>
     </fields>
     <fields>
+        <fullName>Active2__c</fullName>
+        <label>Active2</label>
+        <picklist>
+            <picklistValues>
+                <fullName>No</fullName>
+                <default>false</default>
+            </picklistValues>
+            <picklistValues>
+                <fullName>Yes</fullName>
+                <default>false</default>
+            </picklistValues>
+            <sorted>false</sorted>
+        </picklist>
+        <type>Picklist</type>
+    </fields>
+    <fields>
         <fullName>Active__c</fullName>
         <label>Active</label>
         <picklist>
